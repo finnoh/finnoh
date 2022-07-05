@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @finnoh
+- 👀 I’m interested in data science in marketing and economics
+- 🌱 I’m currently a student in the research master Business Data Science at Tinbergen Institute
+- 📫 You can find me on my [website](https://www.ds-econ.com) or on [LinkenIn](https://www.linkedin.com/in/finn-hoener/)

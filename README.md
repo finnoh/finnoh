@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Finn-Ole Höner
 - 👀 I’m interested in data science in marketing and economics
 - 🌱 I’m currently a student in the MPhil Business Data Science
-- 📫 You can find me on [Substack](https://dsecon.substack.com) or on [LinkedIn](https://www.linkedin.com/in/finn-hoener/)
+- 📫 You can find me on [Substack](https://dsecon.substack.com), [Medium](https://medium.com/@ds-econ), or [LinkedIn](https://www.linkedin.com/in/finn-hoener/)
